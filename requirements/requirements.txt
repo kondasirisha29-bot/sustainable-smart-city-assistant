@@ -1,0 +1,24 @@
+# 🏙 Smart City Assistant
+
+An AI-powered platform with Streamlit (frontend) and FastAPI (backend) for smart city management.
+
+## 📦 Features
+
+- KPI Forecasting using weather
+- Anomaly Detection
+- Eco Tips with Hugging Face models
+- Policy Summarizer
+- Chat Assistant
+- Feedback system
+
+## 🚀 Technologies Used
+
+- Streamlit
+- FastAPI
+- Hugging Face APIs
+- OpenWeatherMap API
+- Pandas, NumPy
+
+## 🛠 How to Run
+
+### 1. Clone the repository
